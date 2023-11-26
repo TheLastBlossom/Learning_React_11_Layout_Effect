@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  margin: 0 auto;
+}
+.box p{
+  line-height: 100px;
+}
+.buttonActive{
+  background: #282c34;
+  color: white;
+  padding: 5px 10px;
+  border: transparent;
+}
